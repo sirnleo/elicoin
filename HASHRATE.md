@@ -1,6 +1,7 @@
 ## Approximate YescryptR16 hashrate on different CPUs using cpuminer-opt
 CPU name | Hashrate
 ---------|---------
+Intel Core i7-6800k - 6 Core @ 4 Ghz | 1430 H/s
 Intel Core i7-6700 - 4 core @ 4 GHz | 1150 H/s
 AMD Ryzen 5 1600 - 6 core OC @ 3.8 GHz | 1128 H/s
 Intel Core i7-4790K - 4 core @ 4 GHz | 1050 H/s
